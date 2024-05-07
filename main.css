@@ -2,53 +2,85 @@ h1 {
     text-align: center;
     font-size: 40px;
 }
+
 header {
     font-size: 25px;
 }
-.flex-container-horizontal{
+
+.flex-container-horizontal {
     font-size: 30px;
 }
+
 .tudo {
     display: flex;
     justify-content: space-between;
-    align-items: flex-start; 
+    align-items: flex-start;
     margin: 0 auto;
     max-width: 8000px;
 }
+
 .conteúdo {
     text-align: justify;
     font-size: 30px;
 }
+
 .negrito {
     font-weight: bold;
 }
+
 .itálico {
     font-style: italic;
 }
+
 .flex-container {
     font-size: 20px;
 }
+
 .imagem {
     height: 500px;
     width: 600px;
     margin-top: 150px;
     margin-left: 12px;
 }
+
 .imagem1 {
     height: 500px;
     width: 600px;
     margin-top: 100px;
     margin-left: 12px;
 }
+
 .imagem2 {
     height: 400px;
     width: 800px;
     margin-top: 10px;
-    margin-left: 12px;    
+    margin-left: 12px;
 }
+
 .imagem3 {
     height: 500px;
     width: 900px;
     margin-top: 20px;
-    margin-left: 12px; 
+    margin-left: 12px;
+}
+
+.imagem4 {
+    height: 500px;
+    width: 700px;
+    margin top: 22px;
+    margin-left: 12px;
+}
+
+.imagem5 {
+    height: 400px;
+    width: 700px;
+    margin top: 10px;
+    margin-left: 12px;
+}
+
+.imagem6 {
+    height: 350px;
+    width: 700px;
+    margin top: 18px;
+    margin-left: 12px;
 }
