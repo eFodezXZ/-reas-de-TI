@@ -23,15 +23,6 @@ header {
     text-align: justify;
     font-size: 30px;
 }
-
-.negrito {
-    font-weight: bold;
-}
-
-.itálico {
-    font-style: italic;
-}
-
 .flex-container {
     font-size: 20px;
 }
